@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+h1{
+    font-family: "SUSE Mono", sans-serif;
+    color: goldenrod;
+}
+
+h2{
+    font-family: "SUSE Mono", sans-serif;
+    color: brown;
+}
+
+ul{
+    font-family: "SUSE Mono", sans-serif;
+    color: gray;
+}
